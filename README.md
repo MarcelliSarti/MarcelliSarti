@@ -12,5 +12,5 @@ DevOps | Backend Developer | Python | Aws 🚀
 - 🌐 Passionate about data analysis
 - 💡 Love a good challenge
 - 🌱 I’m currently learning AWS | SRE | Architecture
-- <img width="612" height="612" alt="image" src="https://github.com/user-attachments/assets/93a4eaf0-af9f-40b2-8aea-4c1ccaa95cde" /> Aws Cloud Practitioner
+- Aws Cloud Practitioner
 
